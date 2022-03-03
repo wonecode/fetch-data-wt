@@ -1,0 +1,16 @@
+query {
+  projetsReferenceList(start: 0, limit: 10) {
+    ampizeId
+    contentURL
+    hasChanges
+    isPublished
+    title
+    author
+    summary
+    image
+    imageMenu
+    imageMenuMobile
+    region
+    body
+  }
+}

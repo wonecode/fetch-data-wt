@@ -1,0 +1,15 @@
+query {
+  implantationsList(start: 0, limit: 10) {
+    ampizeId
+    contentURL
+    hasChanges
+    isPublished
+    title
+    typologie
+    image
+    website
+    detailpageURL
+    lat
+    lng
+  }
+}

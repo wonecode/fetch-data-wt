@@ -1,0 +1,128 @@
+[
+  {
+    "ampizeId": "content5b48beee2fa58",
+    "contentURL": "contact-presse",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": "Roblot",
+    "prenom": "Angèle",
+    "service": "Service presse"
+  },
+  {
+    "ampizeId": "content5b4f60a96520c",
+    "contentURL": "content5b4f60a96520c",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": null,
+    "prenom": "Equipe du développement",
+    "service": "Direction du développement territorial"
+  },
+  {
+    "ampizeId": "content5b4f61b7375f9",
+    "contentURL": "bierre",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": "Bierre",
+    "prenom": "Roxane",
+    "service": "Pôle achats"
+  },
+  {
+    "ampizeId": "content5b50c43284a78",
+    "contentURL": "verdier",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": "Verdier",
+    "prenom": "Laëtitia",
+    "service": "Service presse"
+  },
+  {
+    "ampizeId": "content5b50c4ac75be8",
+    "contentURL": "laval",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": "Laval",
+    "prenom": "Laurence",
+    "service": "Pôle égalité des chances"
+  },
+  {
+    "ampizeId": "content5b50c508002e3",
+    "contentURL": "duval",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": "Duval",
+    "prenom": "Caroline",
+    "service": "Pôle égalité des chances"
+  },
+  {
+    "ampizeId": "content5b50c5546dbe1",
+    "contentURL": "de-rivet",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": "De Rivet",
+    "prenom": "Annabelle",
+    "service": "Pôle égalité des chances"
+  },
+  {
+    "ampizeId": "content5b50c59464573",
+    "contentURL": "forestier",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": "Goasmat",
+    "prenom": "Mathias",
+    "service": "Pôle égalité des chances"
+  },
+  {
+    "ampizeId": "content5b50c5e3809e7",
+    "contentURL": "content5b50c5e3809e7",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": null,
+    "prenom": "Equipe de conseillers",
+    "service": "Réservation de séjours sportifs"
+  },
+  {
+    "ampizeId": "content5b50c782a65cd",
+    "contentURL": "content5b50c782a65cd",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": null,
+    "prenom": "Service formation professionnelle",
+    "service": "Pôle formation"
+  },
+  {
+    "ampizeId": "content5b50c7d13c9fa",
+    "contentURL": "content5b50c7d13c9fa",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": null,
+    "prenom": "Service BAFA / BAFD",
+    "service": "Pôle formation"
+  },
+  {
+    "ampizeId": "content5b50c82cb9872",
+    "contentURL": "diard",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": "Gaillard",
+    "prenom": "Tiphaine",
+    "service": "Pôle formation"
+  },
+  {
+    "ampizeId": "content5b50c8c51af04",
+    "contentURL": "content5b50c8c51af04",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": null,
+    "prenom": "Equipe de recrutement",
+    "service": "Service recrutement"
+  },
+  {
+    "ampizeId": "content5b50c9446eab8",
+    "contentURL": "content5b50c9446eab8",
+    "hasChanges": false,
+    "isPublished": true,
+    "nom": null,
+    "prenom": "Equipe de recrutement",
+    "service": "Service recrutement"
+  }
+]

@@ -1,0 +1,15 @@
+query {
+  offresList(start: 0, limit: 10) {
+    ampizeId
+    contentURL
+    hasChanges
+    isPublished
+    title
+    author
+    image
+    imageMenu
+    imageMenuMobile
+    summary
+    body
+  }
+}

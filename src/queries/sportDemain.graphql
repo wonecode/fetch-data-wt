@@ -1,0 +1,16 @@
+query {
+  sportDemainList(start: 0, limit: 10, orderBy: "date") {
+    ampizeId
+    contentURL
+    hasChanges
+    isPublished
+    title
+    date
+    author
+    image
+    summary
+    category
+    keywords
+    body
+  }
+}

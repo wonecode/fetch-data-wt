@@ -1,0 +1,14 @@
+query {
+  contactsList(start: 0, limit: 10) {
+    ampizeId
+    contentURL
+    hasChanges
+    isPublished
+    nom
+    prenom
+    service
+    photo
+    mail
+    numero
+  }
+}
